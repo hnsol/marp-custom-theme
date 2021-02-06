@@ -11,10 +11,14 @@ css files
 
 ### gaia_custom
 
+authentic / chic
+
 <img src="https://github.com/hnsol/marp-custom-theme/blob/main/SS_gaia_custom.png" width="320px">
 
 
 ### gaia_gd
+
+Gundam the Origin
 
 <img src="https://github.com/hnsol/marp-custom-theme/blob/main/SS_gaia_gd.png" width="320px">
 
