@@ -9,7 +9,7 @@
  * @size 4:3 960px 720px
  */
 @import url("https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:400,700&display=swap");
-/* @import '~highlight.js/styles/sunburst'; */
+@import '~highlight.js/styles/sunburst';
 svg[data-marp-fitting='svg'] {
   max-height: 580px; }
 
