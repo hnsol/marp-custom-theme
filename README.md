@@ -37,5 +37,6 @@ Gundam the Origin
 <img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_gd_noncode.png" width="320px">
 
 [上記画像のMarkdownはこちら](https://raw.githubusercontent.com/hnsol/marp-custom-theme/main/example/typical-slides-and-codes.md)
+
 [上記画像のPDF出力はこちら](https://github.com/hnsol/marp-custom-theme/blob/main/example/typical-slides-and-codes.pdf)
 
