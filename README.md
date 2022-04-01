@@ -40,3 +40,4 @@ Gundam the Origin
 
 [上記画像のPDF出力はこちら](https://github.com/hnsol/marp-custom-theme/blob/main/example/typical-slides-and-codes.pdf)
 
+[実際のワークショップで利用したPDFの作例はこちら](https://github.com/hnsol/marp-custom-theme/blob/main/example/actual-workshop-slides.pdf)
