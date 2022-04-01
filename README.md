@@ -25,7 +25,7 @@ Gundam the Origin
 
 <img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_gd.png" width="320px">
 
-## ノンコーダー向けにカスタマイズ
+## ノンコーダー向けのカスタムテーマ
 
 ### gaia_gd_noncode.css
 
@@ -36,4 +36,6 @@ Gundam the Origin
 
 <img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_gd_noncode.png" width="320px">
 
-Markdownコード例と、PDF出力例
+Markdownコード例：https://github.com/hnsol/marp-custom-theme/blob/main/example/typical-slides-and-codes.md
+PDF出力例：https://github.com/hnsol/marp-custom-theme/blob/main/example/typical-slides-and-codes.pdf
+
