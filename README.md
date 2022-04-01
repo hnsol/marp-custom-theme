@@ -5,9 +5,8 @@ Marp用のCSSファイルを、使いやすいようにカスタマイズしま�
 
 ## 概要
 
-- オフィシャルテーマの`gaia`をベースにしています
+- オフィシャルテーマの`gaia`をベースに、色づかいを変えました
   - https://github.com/marp-team/marp-core/blob/main/themes/gaia.scss
-- 色を変えています
 - `scss`ファイルを変更し、コンパイルして`css`を生成しています
   - [MarpのCSSをカスタマイズした（gaia.scssをいじってコンパイル） ](https://qiita.com/hann-solo/items/54682c59c7076d826902)
 
@@ -30,7 +29,10 @@ Gundam the Origin
 
 ### gaia_gd_noncode.css
 
-`gaia_gd.css`の色づかいを踏襲し、ノンコーダーがスライド作成するにあたって便利なようにカスタマイズしました
+`gaia_gd.css`の色づかいを踏襲し、ノンコーダーがスライド作成するにあたって便利なようカスタマイズしました
 
 - タイトル、キーメッセージ、画像の入ったスライドを作成できます
 - 中表紙、参考スライドを含めることができます
+
+<img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_gd_noncode.png" width="320px">
+
