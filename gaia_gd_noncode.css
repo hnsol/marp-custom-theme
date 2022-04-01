@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*!
- * Marp / Marpit Gaia theme.
+ * Marp / Marpit Gaia theme
+ * Customized version for non-coders
  *
  * @theme gaia_gd_noncode
  * @author hann-solo
@@ -322,6 +323,13 @@ section {
     section.lead table {
       margin-left: auto;
       margin-right: auto; }
+    section.inside-title {
+        background-color: #A3C6E5; }
+    section.FYR {
+        background-color: #DFECF6; }
+    section.FYR code {
+      background: #d1d8e1;
+      color: #2962AD; }
 
 header,
 footer,
