@@ -17,14 +17,14 @@ Marp用のCSSファイルを、使いやすいようにカスタマイズしま�
 
 authentic / chic
 
-<img src="https://github.com/hnsol/marp-custom-theme/blob/main/SS_gaia_custom.png" width="320px">
+<img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_custom.png" width="320px">
 
 
 ### gaia_gd.css
 
 Gundam the Origin
 
-<img src="https://github.com/hnsol/marp-custom-theme/blob/main/SS_gaia_gd.png" width="320px">
+<img src="https://github.com/hnsol/marp-custom-theme/blob/main/images/SS_gaia_gd.png" width="320px">
 
 ## ノンコーダー向けにカスタマイズ
 
